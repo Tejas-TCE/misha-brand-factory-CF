@@ -82,7 +82,7 @@ const FashionCarousel = () => {
           This Is What Our Customers Say
         </h2>
         <p className="text-center text-gray-500 max-w-md sm:max-w-xl lg:max-w-5xl mx-auto mb-4 sm:mb-6 text-xs sm:text-sm lg:text-base">
-          We love hearing from you! Our customers are at the heart of everything we do, and your feedback inspires us to keep getting better. Read real reviews from happy shoppers who've loved our products and service. Have something to share? Drop your review and join our growing community of satisfied customers!
+          We love hearing from you! Our customers are at the heart of everything we do, and your feedback inspires us to keep getting better. Read real reviews from happy shoppers whove loved our products and service, Have something to share? Drop your review and join our growing community of satisfied customers!
         </p>
         <button className="block mx-auto mb-4 cursor-pointer sm:mb-6 px-3 py-1 sm:px-4 sm:py-2 bg-yellow-500 text-white rounded-lg hover:bg-yellow-600 transition text-xs sm:text-sm lg:text-base">
           Submit Google Review
