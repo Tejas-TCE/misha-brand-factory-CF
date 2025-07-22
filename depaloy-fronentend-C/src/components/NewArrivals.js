@@ -71,7 +71,7 @@ export default function NewArrivals() {
           New Arrivals
         </h2>
         <p className="text-sm sm:text-base text-gray-600 max-w-4xl mx-auto leading-relaxed px-2">
-          Discover the freshest additions to our collection in our New Arrivals section! From the latest trends to tretess essentials, we've handpicked the newest styles just for you. Whether Whether you're looking to upgrade your wardrobe, ratrash your space, or find the perfect gift, our latest arrivals have something for everyone. Don't miss out-explore what's new and be the first to ews what's hot this season 
+          Discover the freshest additions to our collection in our New Arrivals section! From the latest trends to tretess essentials, weve handpicked the newest styles just for you, Whether Whether youre looking to upgrade your wardrobe, ratrash your space, or find the perfect gift, our latest arrivals have something for everyone, Dont miss out-explore whats new and be the first to ews whats hot this season 
         </p>
       </div>
 
